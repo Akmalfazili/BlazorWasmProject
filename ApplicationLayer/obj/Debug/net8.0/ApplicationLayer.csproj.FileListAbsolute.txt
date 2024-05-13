@@ -1,0 +1,15 @@
+C:\Akmal\DemoCleanArchitecture\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.deps.json
+C:\Akmal\DemoCleanArchitecture\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.dll
+C:\Akmal\DemoCleanArchitecture\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.pdb
+C:\Akmal\DemoCleanArchitecture\ApplicationLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Akmal\DemoCleanArchitecture\ApplicationLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Akmal\DemoCleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.csproj.AssemblyReference.cache
+C:\Akmal\DemoCleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Akmal\DemoCleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.AssemblyInfoInputs.cache
+C:\Akmal\DemoCleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.AssemblyInfo.cs
+C:\Akmal\DemoCleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Akmal\DemoCleanArchitecture\ApplicationLayer\obj\Debug\net8.0\Applicat.033E422A.Up2Date
+C:\Akmal\DemoCleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.dll
+C:\Akmal\DemoCleanArchitecture\ApplicationLayer\obj\Debug\net8.0\refint\ApplicationLayer.dll
+C:\Akmal\DemoCleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.pdb
+C:\Akmal\DemoCleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ref\ApplicationLayer.dll

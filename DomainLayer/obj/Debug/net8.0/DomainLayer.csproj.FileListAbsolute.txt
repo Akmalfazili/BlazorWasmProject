@@ -1,0 +1,11 @@
+C:\Akmal\DemoCleanArchitecture\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+C:\Akmal\DemoCleanArchitecture\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Akmal\DemoCleanArchitecture\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Akmal\DemoCleanArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Akmal\DemoCleanArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Akmal\DemoCleanArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+C:\Akmal\DemoCleanArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Akmal\DemoCleanArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+C:\Akmal\DemoCleanArchitecture\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+C:\Akmal\DemoCleanArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+C:\Akmal\DemoCleanArchitecture\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
